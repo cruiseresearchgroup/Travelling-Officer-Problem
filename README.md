@@ -5,8 +5,8 @@ The on-street parking system is an indispensable part of civil projects, which p
 
 This repository contains resources developed within the following paper:
 
-  Shao, W., Salim, F. D., Gu, T., Dinh, N. T., & Chan, J. (2017). 
-  Travelling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet of Things Journal.
+	Shao, W., Salim, F. D., Gu, T., Dinh, N. T., & Chan, J. (2017). 
+ 	Travelling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet of Things Journal.
 
 
 You can find the paper and presentation in this repository.
