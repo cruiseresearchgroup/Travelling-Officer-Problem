@@ -1,6 +1,5 @@
 # Travelling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data
 
-Abstract
 The on-street parking system is an indispensable part of civil projects, which provides travellers and shoppers with parking spaces. With the recent in-ground sensors deployed throughout the city, there is a significant problem on how to use the sensor data to manage parking violations and issue infringement notices in a short time-window efficiently. In this paper, we use a large real-world dataset with on-street parking sensor data from the local city council, and establish a formulation of the Travelling Officer Problem with a general probability-based model. We propose two solutions using a spatio-temporal probability model for parking officers to maximize the number of infringing cars caught with limited time cost. Using real-world parking sensor data and Google Map road network information, the experimental results show that our proposed algorithms outperform the existing patrolling routes.
 
 This repository contains resources developed within the following paper:
