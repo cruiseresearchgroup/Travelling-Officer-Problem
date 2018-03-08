@@ -16,8 +16,6 @@ This repository contains resources used and described in the paper.
 The repository is structured as follows:
 
 
-
-- `algorithms/`: Formal description of algorithm for entity normalization and sentence clustering.
 - `data/`: Dataset used for this paper.
 - `code/`: Include the algorithm implementation.
 - `paper/`: PDF of paper.
